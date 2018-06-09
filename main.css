@@ -2,6 +2,10 @@ html {
     background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
 }
 
+img {
+    max-width: 100%;
+}
+
 nav ul {
     display: flex;
     justify-content: flex-start;
